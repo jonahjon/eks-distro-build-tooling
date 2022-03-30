@@ -1,6 +1,6 @@
 al2:
-  eks-distro-base: 2022-03-16-1647457250.2
-  eks-distro-minimal-base: 2022-03-09-1646784337.2
+  eks-distro-base: 2022-03-30-1648632000.2
+  eks-distro-minimal-base: 2022-03-30-1648632000.2
   eks-distro-minimal-base-nonroot: 2022-03-09-1646784337.2
   eks-distro-minimal-base-glibc: 2022-03-09-1646784337.2
   eks-distro-minimal-base-iptables: 2022-03-09-1646784337.2
